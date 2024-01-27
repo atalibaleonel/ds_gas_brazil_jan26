@@ -13,14 +13,13 @@ Dashboard para análise dos preços da gasolina no Brasil (2004-2021) feito com 
 - Possibilidade de alternar entre o tema claro e escuro do layout
 
 
-## 💻 Projeto
-Para ver as aulas do desenvolvimento do projeto completo em vídeo:
+## 💻 Projeto ##
 
 <a href = "https://www.atalibaleonel.com.br/"><img src="https://img.shields.io/badge/ASIMOV-Aulas%20do%20projeto-lightgrey" target="_blank"></a> 
 
 Para ver o projeto em tempo real:
 
-<a href = "https://gasprices-dash-asimov.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a> 
+<a href = "https://projet-price-brazil24.onrender.com"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a> 
 
 ## 👨‍💻 Tecnologias Utilizadas
 
@@ -37,16 +36,16 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 ## 📜 Conteúdo
 Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criação de Web Apps e Dashboards, acesse:
 
-<a href = "https://asimov.academy/"><img src="https://img.shields.io/badge/ASIMOV-Saiba%20Mais-lightgrey" target="_blank"></a> 
+<a href = "https://www.atalibaleonel.com.br"><img src="https://img.shields.io/badge/ASIMOV-Saiba%20Mais-lightgrey" target="_blank"></a> 
 
 ### 🤝 Suporte/Contato
 
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551981830833)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asimov.academy/)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W2Nc7bxvk7)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351962361299)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atalibaleonel/)
+[![LinkdIN Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W2Nc7b4v47)
 
-✉ contato@asimov.academy
+✉ contato@atalibaleonel
 
 
 
